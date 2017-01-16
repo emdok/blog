@@ -29,3 +29,8 @@ p {
   border-style: dashed;
   padding: 30px;
 }
+.about {
+  background-color: white;
+  padding: 40px;
+  margin: 0px 0px 40px 0px;
+}
