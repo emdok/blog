@@ -1,0 +1,27 @@
+body{
+  padding: 40px;
+  background-color: #99B89B;
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 60px;
+}
+h2 {
+  font-family: sans-serif;
+  font-size: 40px;
+}
+h3 {
+  font-family: sans-serif;
+  font-size: 30px;
+}
+p {
+  font-family: monospace;
+  font-size: 18px;
+}
+.center {
+  text-align: center;
+}
+.blog-layout {
+  border-style: dashed;
+  padding: 30px;
+}
