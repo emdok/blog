@@ -5,18 +5,22 @@ body{
 h1 {
   font-family: sans-serif;
   font-size: 60px;
+  color: #EB4A5F;
 }
 h2 {
   font-family: sans-serif;
   font-size: 40px;
+  color: #2A363B;
 }
 h3 {
   font-family: sans-serif;
   font-size: 30px;
+  color: #FECEA8;
 }
 p {
   font-family: monospace;
   font-size: 18px;
+  color: #2A363B;
 }
 .center {
   text-align: center;
